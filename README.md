@@ -46,8 +46,7 @@ The Power BI dashboard is designed to provide an interactive and visual represen
 
 ## Credits
 
-This project was carried out by [Your Name] as a part of [Your Project or Course]. For any questions or inquiries, please contact [Your Email Address].
-
+This project was carried out by Christopher Ereforokuma. For any questions or inquiries, please contact cereforokuma@gmail.com
 ---
 
 Feel free to customize this README with your name, project details, and contact information. You can also provide additional context or instructions as needed.
